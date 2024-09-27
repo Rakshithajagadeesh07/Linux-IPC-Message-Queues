@@ -78,6 +78,7 @@ int main()
 	return 0;
 }
 ```
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/9bb10d21-1b31-45b0-a45f-c544908c52f4)
 
